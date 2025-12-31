@@ -18,7 +18,7 @@ I'm an Artificial Intelligence undergraduate with a strong interest in data scie
 - Improving Python and data analysis skills
 
 ### 📫 Connect with me
-- LinkedIn:linkedin.com/in/roshenibolonne
+- LinkedIn: https://www.linkedin.com/in/roshenibolonne
 
 
 
