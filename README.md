@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Rosheni 👋
 
-<!--
-**Rosheni-a11y/Rosheni-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence undergraduate with a strong interest in data science and Python development. I enjoy learning how to work with data, build machine learning models, and solve real-world problems through code.
 
-Here are some ideas to get you started:
+🔍 Interests
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Python Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 Skills
+- Python, Java, MySQL (Beginner)
+- NumPy, Pandas, Scikit-learn
+- Data Preprocessing & Exploratory Data Analysis
+- Git & GitHub
+
+📌 Currently Learning
+- Machine Learning (Andrew Ng – Coursera)
+- Improving Python and data analysis skills
+
+📫 Connect with me
+- LinkedIn: linkedin.com/in/roshenibolonne
+
+
+
