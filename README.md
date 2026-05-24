@@ -2,7 +2,7 @@
 
 # Hey, I'm Rosheni 👋
 
-**AI undergrad** · **Machine Learning** · · **Data science** ·**Full-stack dev**
+**AI undergrad** · **Machine Learning** · **Data science** · **Full-stack dev**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshenibolonne)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](https://mail.google.com/mail/?view=cm&to=roshenibolonne@gmail.com)
