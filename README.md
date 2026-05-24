@@ -2,17 +2,17 @@
 
 # Hey, I'm Rosheni 👋
 
-**AI undergrad** · **Data science** · **Full-stack dev**
+**AI undergrad** · **Machine Learning** · · **Data science** ·**Full-stack dev**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshenibolonne)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:roshenibolonne@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:roshenibolonne@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Sri_Lanka-gray?style=flat)]()
 
 </div>
 
 ---
 
-I'm a second-year **BSc IT (AI specialization)** student at SLIIT who likes building things that actually work — ML models, full-stack apps, and everything in between. I learn by doing, and most of my repos reflect that.
+Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build stuff than just study it. I train ML models, ship full-stack apps, and try to make data tell stories worth hearing. If it involves Python and a messy dataset, I'm probably already interested.
 
 ### 🔧 Tech I work with
 
@@ -28,25 +28,17 @@ I'm a second-year **BSc IT (AI specialization)** student at SLIIT who likes buil
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📈 What I'm up to
+### 🚀 What I'm building toward
 
-- 🧠 Deepening my ML skills — feature engineering, model evaluation, end-to-end pipelines
-- 🌐 Building full-stack apps with the MERN stack
-- 📊 Working toward a career in **data science**
-
-### 📊 GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosheni-a11y&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosheni-a11y&layout=compact&hide_border=true)
-
-</div>
+- 🤖 Training ML models that go beyond tutorials — real data, real pipelines, real results
+- 📊 Turning raw data into insights with Pandas, Scikit-learn, and a lot of curiosity
+- 🌐 Shipping full-stack apps end-to-end with the MERN stack + Flask APIs
+- 🎯 Goal: land a **data science and AI** role where I can solve problems that actually matter
 
 ---
 
 <div align="center">
 
-*Building things, breaking things, learning things* ⚡
+*Less theory, more building* ⚡
 
 </div>
