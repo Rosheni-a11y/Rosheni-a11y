@@ -30,11 +30,11 @@ Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build st
 
 ### 🚀 What I'm building toward
 
-- 🤖 Getting into **RAG systems** and **AI agents** - the stuff that's actually reshaping the industry right now
-- 📊 Building end-to-end ML pipelines with real data, not just tutorial datasets
-- 🌐 Shipping full-stack apps from backend to deployment with the MERN stack + Flask
-- 🧠 Exploring computer vision projects that solve real problems
-- 🎯 Goal: land an **AI / data science** role where I can build things that actually matter
+- Getting into **RAG systems** and **AI agents** - the stuff that's actually reshaping the industry right now
+- Building end-to-end ML pipelines with real data, not just tutorial datasets
+- Shipping full-stack apps from backend to deployment with the MERN stack + Flask
+- Exploring computer vision projects that solve real problems
+- Goal: land an **AI / data science** role where I can build things that actually matter
 
 ---
 
