@@ -12,7 +12,7 @@
 
 ---
 
-Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build stuff than just study it. I train ML models, ship full-stack apps, and try to make data tell stories worth hearing.Give me a problem, some data, and a deadline — I'll figure out the rest.
+Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build stuff than just study it. I train ML models, ship full-stack apps, and try to make data tell stories worth hearing.Give me a problem, some data, and a deadline , I'll figure out the rest.
 
 ### 🔧 Tech I work with
 
