@@ -5,14 +5,14 @@
 **AI undergrad** · **Machine Learning** · · **Data science** ·**Full-stack dev**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshenibolonne)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:roshenibolonne@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](https://mail.google.com/mail/?view=cm&to=roshenibolonne@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Sri_Lanka-gray?style=flat)]()
 
 </div>
 
 ---
 
-Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build stuff than just study it. I train ML models, ship full-stack apps, and try to make data tell stories worth hearing. If it involves Python and a messy dataset, I'm probably already interested.
+Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build stuff than just study it. I train ML models, ship full-stack apps, and try to make data tell stories worth hearing.Give me a problem, some data, and a deadline — I'll figure out the rest.
 
 ### 🔧 Tech I work with
 
@@ -30,15 +30,16 @@ Third-year **BSc IT (AI specialization)** student at SLIIT who'd rather build st
 
 ### 🚀 What I'm building toward
 
-- 🤖 Training ML models that go beyond tutorials — real data, real pipelines, real results
-- 📊 Turning raw data into insights with Pandas, Scikit-learn, and a lot of curiosity
-- 🌐 Shipping full-stack apps end-to-end with the MERN stack + Flask APIs
-- 🎯 Goal: land a **data science and AI** role where I can solve problems that actually matter
+- 🤖 Getting into **RAG systems** and **AI agents** — the stuff that's actually reshaping the industry right now
+- 📊 Building end-to-end ML pipelines with real data, not just tutorial datasets
+- 🌐 Shipping full-stack apps from backend to deployment with the MERN stack + Flask
+- 🧠 Exploring computer vision projects that solve real problems
+- 🎯 Goal: land an **AI / data science** role where I can build things that actually matter
 
 ---
 
 <div align="center">
 
-*Less theory, more building* ⚡
+*Building things, breaking things, learning things* ⚡
 
 </div>
