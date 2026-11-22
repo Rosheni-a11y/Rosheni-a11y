@@ -1,55 +1,36 @@
 <div align="center">
 
-# hi, i'm rosheni 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=hey%2C+i'm+rosheni;AI+%2B+ML+builder;shipping+RAG+agents;SLIIT+%7C+AI+undergrad" alt="typing animation" />
 
-### AI builder · ML tinkerer · full-stack dev
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshenibolonne)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](https://mail.google.com/mail/?view=cm&to=roshenibolonne@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🗺️_portfolio-DDA0DD?style=flat&logoColor=white)](https://roshenios95.vercel.app/)
-[![Location](https://img.shields.io/badge/📍_Sri_Lanka-gray?style=flat)]()
+<a href="https://linkedin.com/in/roshenibolonne"><img src="https://img.shields.io/badge/LinkedIn-4F8EF7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://roshenios95.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:roshenibolonne@gmail.com"><img src="https://img.shields.io/badge/Email-4F8EF7?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
----
+<br>
 
-BSc IT (AI) student @ SLIIT. I turn weird ideas into working apps — RAG bots, ML models, full-stack stuff. Give me a problem + some data, I'll ship something.
+- 🧠 build RAG agents + ML models, not toy demos
+- 🛠️ full-stack when the AI needs a home to live in
+- 🇱🇰 Sri Lanka · open to AI / ML roles
 
-### ⚡ currently building
-
-RAG agents, AI tools that don't just talk — they actually do stuff.
-
-### 🛠️ stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 🔥 top builds
-
-| project | what it does |
-|---|---|
-| [**studybuddy-ai**](https://github.com/Rosheni-a11y/studybuddy-ai) | agentic RAG study buddy — upload notes, get quizzed, 97.8% retrieval recall |
-| [**AI-Resume-Analyzer**](https://github.com/Rosheni-a11y/AI-Resume-Analyzer) | NLP model that scores + roasts resumes |
-| [**Real-Time-Emotion-Detection**](https://github.com/Rosheni-a11y/Real-Time-Emotion-Detection) | live CV model reading faces frame by frame |
-| [**campuseats**](https://github.com/Rosheni-a11y/campuseats) | full-stack MERN app for campus food ordering |
+<br>
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosheni-a11y&show_icons=true&theme=tokyonight&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosheni-a11y&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,mongodb,mysql,git,sklearn,opencv&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rosheni-a11y&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://streak-stats.demolab.com?user=Rosheni-a11y&theme=radical&hide_border=true&background=0d1117" />
 
 </div>
 
 <div align="center">
-
-*building, breaking, learning* ⚡
-
+<sub>building → breaking → learning, repeat ⚡</sub>
 </div>
