@@ -6,7 +6,7 @@ I vibe-code weird little projects for fun, then actually learn how they work aft
 
 Not gonna lie, I want to be the best in the room. and some days I feel like the dumbest one in it too. both true, both keep me building.
 
-**Stack:** Python · JavaScript · React · C# (.NET) · Node.js · Flask · MongoDB · MySQL · Flutter
+**Stack:** Python · JavaScript · React · C# (.NET) · Node.js · Flask · MongoDB · MySQL · Flutter . Java
 
 *Yeah I know, a lot of boxes checked. mastering one is already hard enough,ask me which one I actually trust myself with at 2am.*
 
