@@ -1,4 +1,4 @@
-### You found me, I'm rosheni.
+### You found me, I'm Rosheni.
 
 My work speaks louder than a readme, scroll down, check the repos and portfolio.
 
